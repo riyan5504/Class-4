@@ -1,0 +1,36 @@
+১। ওয়েবসাইটের Code গুলো Visual Studio Code এ লিখতে হয়।
+২। VS Code এ Folder Open করার জন্য VS Code এর File থেকে Open Folder এ Click করে Folder Open করতে হবে।
+৩। File Create করার জন্য VS code এর Folder থেকে New File এ Click করতে হবে।
+৪। ফাইল নামের শেষে .html Extension থাকতে হবে।
+৫। HTML এ Tag দুই ধরনের। যথা- 1. Opening Tag <> 2. Closing Tag </>
+৬। যে কোন Code Tag ব্যবহার করে লিখতে হবে। 
+৭। কিছু কিছু Tag এর Opening এবং Closing দুইটাই আছে। আর কিছু কিছু Tag এর শুধু Opening থাকে।
+৮। HTML শুরু করতে হবে <html> Tag দিয়ে।
+৯। HTML এর Structure এ প্রথমে Head থাকে, তারপর Body থাকে।
+১০। <head> Tag এর মধ্যে ওয়েবসাইটের heading লিখতে হয়।
+১১। <title> Tag দিয়ে ওয়েবসাইটের Title লিখতে হয়।
+১২। <body> Tag এর মধ্যে ওয়েবসাইটের Body লিখতে হয়।
+১৩। <p> Tag দিয়ে ওয়েবসাইটের Body এর মধ্যে Paragraph লিখতে হয়।
+১৪। <span> Tag দিয়ে ওয়েবসাইটের Body এর মধ্যে Paragraph লিখা যায়।
+১৫। <h> Tag 1-6 টি h tag আছে যার কাজ হলো লেখাকে Bold করে লেখার font ছোট বড় করে।
+১৬। <b> Tag লেখাকে Bold করার জন্য b tag ব্যবহার করা হয়।
+১৭। <strong> Tag লেখাকে Bold করার জন্য ব্যবহার করা হয়।
+১৮। <br> Tag দুটি লাইনকে ভাগ করার জন্য ব্যবহার করা হয়। এটি enter হিসাবে কাজ করে।
+১৯। <img> Tag ছবি uplode দেওয়ার জন্য ব্যবহার করা হয়।
+২০। কোন tag এর মধ্যে কিছু লিখা থাকলে তাকে attribute বলে।
+২১। ভার্সন controlling এর জন্য Github account ব্যবহার করতে হবে।
+২২। Github এ folder কে repositories বলে।
+২৩। Folder থেকে VS Code Open করার জন্য mause এর right batton click করে Open in Terminal অথবা 
+    Open Git Bash here এ click করে "Code ." লিখে enter চাপলেই VS Code Open হয়ে যাবে।
+২৪। <iframe> tag You tube থেকে কোন ভিডিও সরাসরি ওয়েবসাইটে link করার জন্য অথবা google from আপলোড 
+    দেওয়ার জন্য iframe tag ব্যবহার করা হয়।
+২৫। GitHub repository কম্পিউটারে নিয়ে আসার জন্য প্রথমে repository HTTPS link copy করে যে folder এ রাখবো 
+    সে folder open করে mause এর right batton click করে Open in Terminal অথবা Open Git Bash here এ click
+    করে "git clone" লিখে repository HTTPS link past করে enter চাপলেই repositories file clone হয়ে যাবে।
+২৬। পিসি থেকে repository file, GitHub এ push করার জন্য folder open করে mause এর right batton click করে
+    Open in Terminal অথবা Open Git Bash here এ click করে "git add ." লিখে enter দিবো, তারপর আবার "git
+    commit -m"message" লিখে enter দিয়ে আবার "git push" লিখে enter দিলেই repository file, GitHub এ push
+    হয়ে যাবে।
+২৭। Repository file চেক করার জন্য folder open করে mause এর right batton click করে Open in Terminal 
+    অথবা Open Git Bash here এ click করে "git status" লিখে enter চাপলেই repository file এর status জানা
+    যাবে।
