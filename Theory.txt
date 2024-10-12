@@ -34,3 +34,5 @@
 ২৭। Repository file চেক করার জন্য folder open করে mause এর right batton click করে Open in Terminal 
     অথবা Open Git Bash here এ click করে "git status" লিখে enter চাপলেই repository file এর status জানা
     যাবে।
+২৮। GitHub Repository file এর live link তৈরি করের জন্য প্রথমে repository এর setting থেকে page এ যেতে হবে
+    তারপর Branch select করে save করলেই Repository file এর live link তৈরি হয়ে যাবে।
